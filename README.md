@@ -40,6 +40,7 @@ Then register them in your Claude Code settings (userSettings or project setting
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI or IDE extension
 - n8n instance with API access (API key)
 - `curl` and `jq` available in your shell
+- [Zappfy](https://dash.zappfy.io/) account (for WhatsApp integrations via Uazapi)
 
 ## Customization
 
