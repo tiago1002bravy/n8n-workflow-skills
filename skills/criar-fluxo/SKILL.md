@@ -40,7 +40,7 @@ const CONFIG = {
   statusInicial:  "status",
   fieldXxx:       "ID_DO_CAMPO",
   // Zappfy
-  zappfyBaseUrl:  "https://zappfy-v2.uazapi.com",
+  zappfyBaseUrl:  "https://YOUR_ZAPPFY_INSTANCE.uazapi.com",
 };
 // ============================================================
 ```
